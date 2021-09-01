@@ -1,5 +1,6 @@
 ## Seja bem vindo (a)! Meu nome é Marcio Arante ✌️
 ### Sou carioca, dev full cycle, empresário, estudante de direito e amo comédia.
+### Meus repositórios são todos privados por questões práticas, mas se entrar em contato comigo, posso mostrar um pouco do que eu faço!
 ### Você pode dar uma olhada no meu site ou no meu instagram:
 
 [![Site](https://img.shields.io/website?label=marcioarante.com.br&style=for-the-badge&url=https://marcioarante.com.br/)](https://marcioarante.com.br)
